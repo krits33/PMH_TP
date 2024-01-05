@@ -1,0 +1,6 @@
+0 apple
+1 cucumber
+2 cabbage
+3 apple_rotten
+4 pear
+5 apple_pink_lady
